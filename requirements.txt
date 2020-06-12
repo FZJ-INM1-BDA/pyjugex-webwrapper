@@ -1,0 +1,4 @@
+aiohttp==3.6.2
+pyjugex==1.0.1a0
+requests==2.23.0
+gunicorn==20.0.4
